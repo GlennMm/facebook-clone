@@ -29,11 +29,11 @@ const Post = ({ post }) => {
         </div>
         <div className="inputIcon rounded-none">
           <ChatAltIcon className="h-4" />
-          <p className="text-xs sm:text-base">Like</p>
+          <p className="text-xs sm:text-base">Conment</p>
         </div>
         <div className="inputIcon rounded-none rounded-br-2xl">
           <ShareIcon className="h-4" />
-          <p className="text-xs sm:text-base">Like</p>
+          <p className="text-xs sm:text-base">Share</p>
         </div>
 
       </div>
