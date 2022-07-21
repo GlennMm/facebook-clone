@@ -8,7 +8,8 @@ const nextConfig = {
       "platform-lookaside.fbsbx.com",
       "firebasestorage.googleapis.com",
       "randomuser.me",
-      "reqres.in"
+      "reqres.in",
+      "lh3.googleusercontent.com"
     ]
   }
 }
